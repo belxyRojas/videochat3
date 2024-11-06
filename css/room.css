@@ -201,6 +201,7 @@ background-size: 300px;
   gap: 2em;
   /* margin-top: 25px; */
   margin-bottom: 225px;
+  pointer-events: none;
 }
 .video__container{
   display: flex;
