@@ -9,6 +9,7 @@
     position: relative;
     display: flex;
     gap: 3rem;
+    border-top: 1px solid #000;
   }
   
   #members__container {
@@ -203,27 +204,25 @@
     margin-bottom: 225px;
   }
   .video__container{
-    /*display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #b366f9;
-    border-radius: 50%;
     cursor: pointer;
     overflow: hidden;
-    height: 300px;
-    width:300px ;
+    height: 600px;
+    width:100% ;
     background-color: #eee;
    background-repeat: no-repeat;
    background-position: center;
-   background-size: 75px;*/
-   
+
+
   }
   .video-player {
    height: 100%;
    width: 100%;
   }
   .video-player video{
- border-radius: 50%;
+ /*border-radius: 50%;*/
   }
 
   #leave-btn{
@@ -336,5 +335,5 @@
   .stream__actions button .active,
   .stream__actions a:hover,
   .stream__actions button:hover {
-    background-color: #845695;
+    background-color: #000;
   }
