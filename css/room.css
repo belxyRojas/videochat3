@@ -129,7 +129,7 @@
   
   .message__author__bot {
     margin-right: 10px;
-    color: #a52aca!important;
+    color: #000!important;
   
   }
   
@@ -204,7 +204,7 @@
     margin-bottom: 225px;
   }
   .video__container{
-    display: flex;
+    /*display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
@@ -213,7 +213,19 @@
     width:100% ;
     background-color: #eee;
    background-repeat: no-repeat;
+   background-position: center;*/
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   cursor: pointer;
+   overflow: hidden;
+   height: 100%;
+   width: 100%;
+   background-color: #eee;
+   background-repeat: no-repeat;
    background-position: center;
+   position: absolute;
+
 
 
   }

@@ -141,7 +141,7 @@ a {
 
 #members__button,
 #chat__button {
-  display: none;
+ /* display: none;*/
   cursor: pointer;
   background: transparent;
   border: none;
