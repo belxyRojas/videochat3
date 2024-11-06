@@ -55,6 +55,7 @@ a {
   border-radius: 50%;
 }
 #nav {
+  display:none;
   position: fixed;
   top: 0;
   width: 100%;
@@ -150,7 +151,7 @@ a {
 #members__button:hover svg > path,
 #chat__button:hover svg,
 .nav__link:hover svg {
-  fill: #845695;
+  fill: #000;
 }
 
 .nav__link svg {
