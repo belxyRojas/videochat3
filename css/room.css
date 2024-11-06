@@ -228,7 +228,7 @@ background-size: 300px;
 #leave-btn{
   background-color: rgb(238, 52, 52);
 }
-
+/*
 @media (max-width: 1400px) {
   .video__container{
     height: 200px;
@@ -283,6 +283,7 @@ background-size: 300px;
     display: block;
   }
 }
+  */
 
 #stream__box {
   position: relative;
