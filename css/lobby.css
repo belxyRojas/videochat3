@@ -46,6 +46,7 @@
     padding: 16px 20px;
     font-size: 15px;
     background-color: #fff;
+    border:1px solid #000;
   }
   
   .form__field__wrapper button[type='submit'] {
